@@ -1,0 +1,11 @@
+fixedReleaser:
+  login: fmeum
+  email: fabian@meumertzhe.im
+moduleRoots:
+  - googleapis-cc
+  - googleapis-go
+  - googleapis-grpc-cc
+  - googleapis-grpc-java
+  - googleapis-java
+  - googleapis-python
+  - googleapis-rules-registry

@@ -1,0 +1,2 @@
+See [constants.bzl](googleapis-rules-registry/private/extensions/constants.bzl) for a list of supported rules that may need to be updated as googleapis adds support for new languages.
+Other than that, these modules should be pretty stable.

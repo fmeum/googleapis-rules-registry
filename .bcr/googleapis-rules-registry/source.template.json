@@ -1,0 +1,5 @@
+{
+    "integrity": "",
+    "strip_prefix": "googleapis-rules-registry",
+    "url": "https://github.com/{OWNER}/{REPO}/releases/download/{TAG}/{REPO}-{TAG}.tar.gz"
+}
